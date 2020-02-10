@@ -1,0 +1,11 @@
+C:\Users\javilad2\source\repos\MetodoStatico4\MetodoStatico4\bin\Debug\netcoreapp3.1\MetodoStatico4.exe
+C:\Users\javilad2\source\repos\MetodoStatico4\MetodoStatico4\bin\Debug\netcoreapp3.1\MetodoStatico4.deps.json
+C:\Users\javilad2\source\repos\MetodoStatico4\MetodoStatico4\bin\Debug\netcoreapp3.1\MetodoStatico4.runtimeconfig.json
+C:\Users\javilad2\source\repos\MetodoStatico4\MetodoStatico4\bin\Debug\netcoreapp3.1\MetodoStatico4.runtimeconfig.dev.json
+C:\Users\javilad2\source\repos\MetodoStatico4\MetodoStatico4\bin\Debug\netcoreapp3.1\MetodoStatico4.dll
+C:\Users\javilad2\source\repos\MetodoStatico4\MetodoStatico4\bin\Debug\netcoreapp3.1\MetodoStatico4.pdb
+C:\Users\javilad2\source\repos\MetodoStatico4\MetodoStatico4\obj\Debug\netcoreapp3.1\MetodoStatico4.csprojAssemblyReference.cache
+C:\Users\javilad2\source\repos\MetodoStatico4\MetodoStatico4\obj\Debug\netcoreapp3.1\MetodoStatico4.AssemblyInfoInputs.cache
+C:\Users\javilad2\source\repos\MetodoStatico4\MetodoStatico4\obj\Debug\netcoreapp3.1\MetodoStatico4.AssemblyInfo.cs
+C:\Users\javilad2\source\repos\MetodoStatico4\MetodoStatico4\obj\Debug\netcoreapp3.1\MetodoStatico4.dll
+C:\Users\javilad2\source\repos\MetodoStatico4\MetodoStatico4\obj\Debug\netcoreapp3.1\MetodoStatico4.pdb

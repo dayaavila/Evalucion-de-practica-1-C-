@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MetodoStatico4/1.0.0": {
+        "runtime": {
+          "MetodoStatico4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetodoStatico4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
